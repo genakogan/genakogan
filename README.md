@@ -2,7 +2,7 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=Telegram&logoColor=green&size=60&width=500)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 =============================
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&?style=for-the-badge&logo=appveyor" alt="genadykogan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> </p>
 
 Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
