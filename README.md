@@ -1,6 +1,6 @@
 Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=CPP&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=cpp&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 =============================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> 
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
