@@ -22,4 +22,9 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&locale=en" alt="genadykogan" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genadykogan&show_icons=true&locale=en&layout=compact" alt="genadykogan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&locale=en" alt="genadykogan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genadykogan&" alt="genadykogan" /></p>
 
