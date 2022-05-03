@@ -19,7 +19,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
-### Programmin Languages
+#### Programmin Languages: 
 
 <h4 align="left">Frontend Development:</h4>
 
