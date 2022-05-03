@@ -20,9 +20,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
 ### Programmin Languages
-Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
-[![Telegram Badge](https://img.shields.io/badge/-cpp-2f7220?style=flat-square&logo=cpp&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
+
 <h4 align="left">Frontend Development:</h4>
 
 <h4 align="left">Backend Development:</h4>
