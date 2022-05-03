@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
 <h4 align="left">Programming Languages:</h4>
-[![Linkedin Badge](https://img.shields.io/badge/-C-0e76a8?style=flat-square&logo=C&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
+[![Telegram Badge](https://img.shields.io/badge/-cpp-2f7220?style=flat-square&logo=cpp&logoColor=green)]
 <h4 align="left">Frontend Development:</h4>
 
 <h4 align="left">Backend Development:</h4>
