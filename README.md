@@ -48,5 +48,5 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&layout=compact)
-[![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&count_private=true)](https://github.com/genadykogan/github-readme-stats)
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&count_private=true&theme=dark)](https://github.com/genadykogan/github-readme-stats)
