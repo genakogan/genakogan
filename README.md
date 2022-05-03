@@ -17,4 +17,19 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Programming Languages:</h4>
+
+<h4 align="left">Frontend Development:</h4>
+
+<h4 align="left">Backend Development:</h4>
+
+<h4 align="left">Database:</h4>
+
+<h4 align="left">Backend as a Service(BaaS):</h4>
+
+<h4 align="left">Framework:</h4>
+
+<h4 align="left">Software:</h4>
+
+<h4 align="left">IDE and Code Editor:</h4>
+
