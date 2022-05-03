@@ -5,8 +5,10 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> 
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
+     
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
 Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
