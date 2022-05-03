@@ -50,4 +50,4 @@ Software Academic staff at Sami Shamooon College of Engineering
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
 
- [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/genadykogan/github-readme-stats)
+ [![Top Language](https://readme-stats.genadykogan.com/api/top-langs?username=genadykogan&layout=compact)](https://github.com/genadykogan/github-readme-stats)
