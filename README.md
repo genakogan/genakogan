@@ -2,7 +2,7 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?style=flat-square&logo=Telegram&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 =============================
-![](https://komarev.com/ghpvc/?username=genadykogan7CB&color=red&style=plastic)
+![](https://ghpvc/?username=genadykogan7CB&color=red&style=plastic)
 
 Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
