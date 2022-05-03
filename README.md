@@ -1,4 +1,6 @@
-
+Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
+[![Telegram Badge](https://img.shields.io/badge/-cpp-2f7220?style=flat-square&logo=cpp&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 =============================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=flat" alt="genadykogan" /> </p>
 
@@ -15,7 +17,7 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
-<h4 align="left">Programming Languages:</h4>
+
 Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
 [![Telegram Badge](https://img.shields.io/badge/-cpp-2f7220?style=flat-square&logo=cpp&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
