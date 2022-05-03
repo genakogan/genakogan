@@ -43,3 +43,4 @@ Software Academic staff at Sami Shamooon College of Engineering
 <h4 align="left">Software:</h4>
 
 <h4 align="left">IDE and Code Editor:</h4>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a>
