@@ -48,3 +48,4 @@ Software Academic staff at Sami Shamooon College of Engineering
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
