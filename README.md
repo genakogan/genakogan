@@ -49,5 +49,5 @@ Software Academic staff at Sami Shamooon College of Engineering
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
+ [![Top Language]( https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage)](https://github.com/warengonzaga/github-readme-stats)
 
-[ayu-mirage]: https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage
