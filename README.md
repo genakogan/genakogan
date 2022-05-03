@@ -32,6 +32,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 
 <h4 align="left">Backend Development:</h4>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <h4 align="left">Database:</h4>
 
 <h4 align="left">Backend as a Service(BaaS):</h4>
