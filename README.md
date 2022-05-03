@@ -7,7 +7,7 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
 
-## ⚔ Software Academic staff at Sami Shamooon College of Engineering ⚔
+## ➭ Software Academic staff at Sami Shamooon College of Engineering
 
 2020 to present M.Sc. - Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
 2016 to 2021 B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israe </br>
