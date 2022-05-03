@@ -4,6 +4,8 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 =============================
 ![](https://github.com/GenadyKogan/ghpvc/?username=genadykogan7CB&color=red&style=plastic)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=flat" alt="genadykogan" /> </p>
+
 Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
 
