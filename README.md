@@ -7,7 +7,7 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
 
-[![Top Language]( https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true,prs&cache_seconds=86400&theme=ayu-mirage)](https://github.com/genadykogan/github-readme-stats)
+[![Top Language]( https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&hide=contribspr,PRs&cache_seconds=86400&theme=ayu-mirage)](https://github.com/genadykogan/github-readme-stats)
 
 Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
