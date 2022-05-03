@@ -22,7 +22,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 #### Programmin Languages: 
 
 <h4 align="left">Frontend Development:</h4>
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a> </p>
 <h4 align="left">Backend Development:</h4>
 
 <h4 align="left">Database:</h4>
