@@ -50,4 +50,4 @@ Software Academic staff at Sami Shamooon College of Engineering
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
 
- [![Top Language](https://readme-stats.genadykogan.com/api/top-langs?username=genadykogan&layout=compact)](https://github.com/genadykogan/github-readme-stats)
+[ayu-mirage]: https://github-readme-stats.vercel.app/api?username=genadykogan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage
