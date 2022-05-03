@@ -30,7 +30,7 @@ Software Academic staff at Sami Shamooon College of Engineering
  
 <h4 align="left">Frontend Development:</h4>
 <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML/HTML-original.svg" alt="HTML" width="40" height="40"/> </a>
 <h4 align="left">Backend Development:</h4>
 
 <h4 align="left">Database:</h4>
