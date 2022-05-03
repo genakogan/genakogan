@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-#Software Academic staff at Sami Shamooon College of Engineering
+# Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
 
 2020 to present M.Sc. - Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
