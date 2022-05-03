@@ -6,8 +6,6 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
 # Software Academic staff at Sami Shamooon College of Engineering
 ---------------------------------------------------------------
 
@@ -50,4 +48,4 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
