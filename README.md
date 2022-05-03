@@ -4,7 +4,7 @@ Hi 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=fl
 =============================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> 
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=4f5454" /></a>
+src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=53585c" /></a>
 </p>
 
 Software Academic staff at Sami Shamooon College of Engineering
