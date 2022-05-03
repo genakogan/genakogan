@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genadykogan&show_icons=true&locale=en&layout=compact" alt="genadykogan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genadykogan&show_icons=true&locale=en&layout=compact&logoColor=green" alt="genadykogan" /></p>
 
 
 
