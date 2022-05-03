@@ -20,7 +20,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 ![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
 
 #### Programmin Languages: 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://c.io" target="_blank" rel="noreferrer"> <img src="https://c.io/assets/images/logos/c/c.svg" alt="c" width="40" height="40"/> </a>
 
 <h4 align="left">Frontend Development:</h4>
 
