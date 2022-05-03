@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 </p>
 
 ## Software Academic staff at Sami Shamooon College of Engineering
-
+U+270D
 2020 to present M.Sc. - Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
 2016 to 2021 B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israe </br>
 
