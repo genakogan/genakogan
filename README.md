@@ -17,7 +17,7 @@ Software Academic staff at Sami Shamooon College of Engineering
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,r,c,cpp,cs,js,ts,nodejs,java,react,mongodb,mysql,py,django,express,github,jenkins,git,bash,jira,powershell,aws,jquery,idea,visualstudio,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=eclipse,PyCharm,visualstudio,vscode&theme=light)
 
 #### Programmin Languages:
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -43,4 +43,4 @@ Software Academic staff at Sami Shamooon College of Engineering
 <h4 align="left">Software:</h4>
 
 <h4 align="left">IDE and Code Editor:</h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a>
+
