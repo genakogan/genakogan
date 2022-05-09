@@ -7,6 +7,8 @@
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
 
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/GenadyKogan?label=Follow%20Me&style=social)](https://github.com/GenadyKogan)
+
 ## ➭ Software Academic staff at Sami Shamooon College of Engineering
 
 ✓ 2020 to present M.Sc. - Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
@@ -49,5 +51,5 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/GenadyKogan?label=Follow%20Me&style=social)](https://github.com/GenadyKogan)
+
 
