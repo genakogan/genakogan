@@ -49,6 +49,3 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 
 
-## My WakaTime Coding Activity
-
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="GenadyKogan WakaTime Activity"/>
