@@ -50,4 +50,15 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 
 
 [![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
+
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
+
+[![discordBadge]][Discord]
 
