@@ -46,3 +46,9 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
+
+
+
+## My WakaTime Coding Activity
+
+<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="GenadyKogan WakaTime Activity"/>
