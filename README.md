@@ -52,7 +52,4 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
 
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="280px" height="200px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
 
