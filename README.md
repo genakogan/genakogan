@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=Telegram&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 ==================
 📝 *Feel free to contact me. I am always here ...* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-==================
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> 
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
