@@ -1,4 +1,4 @@
-👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
+👋📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=Telegram&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
 =============================
@@ -7,7 +7,7 @@
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/GenadyKogan?label=Follow%20Me&style=social)](https://github.com/GenadyKogan)
+  [![Github](https://img.shields.io/github/followers/GenadyKogan?label=Follow%20Me&style=social)](https://github.com/GenadyKogan)
 
 ## ➭ Software Academic staff at Sami Shamooon College of Engineering
 
