@@ -1,8 +1,6 @@
 👋[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genady-kogan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gennadykogan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2f7220?&style=flat&logo=Telegram&logoColor=green)](https://t.me/+fb1E6DjbJ4E1ZmU0)
-
-[![starsBadge]][stargazers]
 =============================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genadykogan" /> 
      <a href="https://www.github.com/genadykogan" target="_blank" rel="noreferrer"><img
@@ -50,4 +48,6 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
 
+
+[![starsBadge]][stargazers]
 
