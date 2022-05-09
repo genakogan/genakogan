@@ -9,7 +9,7 @@
 src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
 
-  [![Github](https://img.shields.io/github/followers/GenadyKogan?label=Follow%20Me&style=social)](https://github.com/GenadyKogan)
+
 
 ## ➭ Software Academic staff at Sami Shamooon College of Engineering
 
