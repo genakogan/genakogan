@@ -54,13 +54,11 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 ## 💯 Certificates:
 
 <p align="center">
-    <img src="assets/certificates/git.jpg" alt="git" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/linux.jpg" alt="linux" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/react.jpg" alt="react" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/mathlab.png" alt="mathlab" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/mern_stack.jpeg" alt="mern_stack" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/1.jpg" alt="git" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/2s.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/3.jpg" alt="linux" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/4.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/5.jpg" alt="react" width="288" height="214"/>&nbsp;
   </p>
 
 ---
