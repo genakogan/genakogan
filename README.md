@@ -54,11 +54,11 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 ## 💯 Certificates:
 
 <p align="center">
-    <img src="Certificates/1.jpg" alt="git" width="288" height="214"/>&nbsp;
-    <img src="Certificates/2s.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
-    <img src="Certificates/3.jpg" alt="linux" width="288" height="214"/>&nbsp;
-    <img src="Certificates/4.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
-    <img src="Certificates/5.jpg" alt="react" width="288" height="214"/>&nbsp;
+    <img src="Certificates/1.jpg" alt="JavaScript" width="288" height="214"/>&nbsp;
+    <img src="Certificates/2.jpg" alt="The MERN Fullstack Guide" width="288" height="214"/>&nbsp;
+    <img src="Certificates/3.jpg" alt="React" width="288" height="214"/>&nbsp;
+    <img src="Certificates/4.jpg" alt="Typescript" width="288" height="214"/>&nbsp;
+    <img src="Certificates/5.jpg" alt="NodeJS" width="288" height="214"/>&nbsp;
   </p>
 
 ---
