@@ -51,5 +51,18 @@ src="https://img.shields.io/github/followers/genadykogan?logo=github&style=for-t
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio&theme" alt="react" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse&theme" alt="react" width="40" height="40"/> </a>
 
+## 💯 Certificates:
+
+<p align="center">
+    <img src="assets/certificates/git.jpg" alt="git" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/linux.jpg" alt="linux" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/react.jpg" alt="react" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/mathlab.png" alt="mathlab" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/mern_stack.jpeg" alt="mern_stack" width="288" height="214"/>&nbsp;
+  </p>
+
+---
 
 
