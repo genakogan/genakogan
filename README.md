@@ -3,7 +3,7 @@
 ==================
 *Feel free to contact me. I am always here ...* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="ghgkogan" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genadykogan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=appveyor" alt="genakogan" /> 
      <a href="https://www.github.com/ghgkogan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ghgkogan?logo=github&style=for-the-badge&color=0e75b6&labelColor=595d61" /></a>
 </p>
