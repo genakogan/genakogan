@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/genakogan?logo=github&style=for-the
 ## ➭ Software Academic staff at Sami Shamooon College of Engineering
 
 ✓ 2020 to present M.Sc. - Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
-✓ 2016 to 2021 B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
+✓ 2017 to 2021 B.Sc – Software Engineering, Sami Shamoon College of Engineering – SCE Beersheba, Israel </br>
 
 
 
